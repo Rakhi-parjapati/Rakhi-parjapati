@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakhi</h1>
 <h3 align="center">Aspiring Full Stack Web Developer | Learning and Building 🚀</h3>
-<img align="right" alt="coding" width="400" src="https://images.openai.com/static-rsc-4/LfwvRUqFHtVjYvKJviP45HixOdYaXPMkb0h-59RHEbMkNlmQoUXdgCHR69D1P_tNg0Gny4t3zoXqbBecx4JgqXrplw0T8pf7UfevCNPFzp-srREsXExuCMB2rnLeZpceoybH3N4uyypvnlUsw1EI080lsxSWJg8zGDHGrU50wz8v-ZoW_ptys5DB2IAKWGwC?purpose=fullsize">
+<img align="right" alt="coding" width="400" src="<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/52e99e5c-147b-4480-b2b5-779aa93bce33" />
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhi-parjapati" alt="rakhi-parjapati" /></a> </p>
