@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakhi</h1>
 <h3 align="center">Aspiring Full Stack Web Developer | Learning and Building 🚀</h3>
-<img align="right" alt="coding" width="300" src="rakhi_github_coding_avatar (1).gif">
+<img align="right" alt="coding" width="300" src="hello-gif.gif">
 
 y
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakhi-parjapati" alt="rakhi-parjapati" /></a> </p>
